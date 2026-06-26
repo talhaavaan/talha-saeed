@@ -334,7 +334,7 @@ nav.scrolled {
 @keyframes scrollPulse { 0%,100% { opacity: .3; } 50% { opacity: 1; } }
 
 /* ── BODY WRAPPER ── */
-.portfolio-body { background: var(--black); position: relative; overflow: hidden; }
+.portfolio-body { background: var(--black); position: relative; overflow-x: hidden; }
 
 /* ── MARQUEE ── */
 .marquee-wrap {
