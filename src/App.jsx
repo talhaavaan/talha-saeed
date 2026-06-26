@@ -388,10 +388,10 @@ export default function App() {
                 <a href="https://www.instagram.com/talha___w202" target="_blank" rel="noreferrer" className="contact-link">
                   <div className="contact-link-icon">IG</div><span>@talha___w202 on Instagram</span>
                 </a>
-                <a href="mailto:talha@creative.pk" className="contact-link">
-                  <div className="contact-link-icon">@</div><span>talha@creative.pk</span>
+                <a href="mailto:Nikammafilmmaker@gmail.com" className="contact-link">
+                  <div className="contact-link-icon">@</div><span>Nikammafilmmaker@gmail.com</span>
                 </a>
-                <a href="https://wa.me/923001234567" target="_blank" rel="noreferrer" className="contact-link">
+                <a href="https://wa.me/923167115545" target="_blank" rel="noreferrer" className="contact-link">
                   <div className="contact-link-icon">WA</div><span>WhatsApp — DM for quick reply</span>
                 </a>
               </div>
