@@ -280,7 +280,7 @@ export default function App() {
             <p style={{ fontFamily: "'DM Sans',sans-serif", fontSize: '0.85rem', color: 'rgba(209,213,219,0.4)', marginTop: '0.5rem' }}>Scroll to rotate through the work.</p>
           </div>
           {/* Sticky scrollable gallery */}
-          <div style={{ height: '220vh', position: 'relative' }}>
+          <div style={{ height: '140vh', position: 'relative' }}>
             <div style={{ position: 'sticky', top: 0, height: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' }}>
               <CircularGallery items={GALLERY_ITEMS} radius={520} autoRotateSpeed={0.025} />
             </div>
